@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Bank Sampah DLH App</string>
+    <string name="app_baraction">Aplikasi Bank Sampah</string>
+    <string name="error_inet">ERROR!! silahkan chek internet anda</string>
+</resources>
